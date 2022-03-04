@@ -457,14 +457,11 @@
   .main__img--card {
     width: 250px;
     height: 250px;
+    font-size: 10rem;
   }
 
   .fa-users,
   .fa-layer-group {
-    font-size: 4rem;
-  }
-  
-  .fas fa-dog {
     font-size: 4rem;
   }
 
